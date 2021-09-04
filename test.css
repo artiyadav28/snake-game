@@ -1,0 +1,35 @@
+body{
+    padding:0;
+    margin:0;
+}
+.price-card {
+    margin:0px 20px;
+    background-color: tan;
+    color:rgba(0, 0, 0,0.6);
+    text-align: center;
+    text-shadow: seashell;
+    width:30%;
+    border: 2px solid burlywood;
+    border-radius: 2rem;
+
+    /* -webkit-touch-callout: none; 
+    -webkit-user-select: none;
+    -khtml-user-select: none; 
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;  */
+}
+.price-container {
+    margin:auto;
+    background-color: rgb(248, 240, 228);
+    display: flex;
+    width: 80vw;
+    height:150vh;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    -ms-flex-order:2;
+    align-items:center;
+    
+    /* display: none; */
+}
