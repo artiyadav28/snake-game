@@ -12,7 +12,7 @@
     align-items: center;
 }
 #board{
-    background: linear-gradient(rgb(191, 243, 186),rgb(229, 230, 156)) ;
+    background: linear-gradient(rgb(191, 243, 186),rgb(230, 228, 154)) ;
     width: 90vmin;
     height: 92vmin;
     display:grid;
@@ -27,5 +27,5 @@
     background-color: purple;
 }
 .food{
-    background-color: black;
+    background-color: yellow;
 }
